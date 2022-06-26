@@ -4,4 +4,4 @@ covered
 
 1. Kotlin
 2. HTTP request
-3. Making the use volley request
+3. Making the use of volley request
